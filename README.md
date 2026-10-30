@@ -1,5 +1,9 @@
  /># 🔐 Cybersecurity Lab Environment Setup
 
+
+ I WAS UNABLE TO ADD THE OTHE IMAGES AS A RESULT OF THE NETWORK ISSUE IN THE KALI LINUX
+ 
+
 **Building an isolated virtual lab for penetration testing and ethical hacking practice**
 
 ---
